@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 2,
+      "name": "Sandeep Samanta",
+      "email": "sandeep@gmail.com",
+      "address": "Virar"
+    },
+    {
+      "id": 3,
+      "name": "Neha",
+      "email": "neha@gmail.com",
+      "address": "Virar"
+    },
+    {
+      "id": 4,
+      "name": "Prathmesh",
+      "email": "Prathmesh@gmail.com",
+      "address": "Nalasopara"
+    },
+    {
+      "id": 5,
+      "name": "Aditya",
+      "email": "Aditya@gmail.com",
+      "address": "Palghar"
+    },
+    {
+      "id": 6,
+      "name": "Chetan",
+      "email": "Chetan@gmail.com",
+      "address": "Vasai"
+    },
+    {
+      "id": 7,
+      "name": "Ajay",
+      "email": "Ajay@gmail.com",
+      "address": "Virar"
+    },
+    {
+      "id": 8,
+      "name": "Nikhil",
+      "email": "Nikhil@gmail.com",
+      "address": "Andheri"
+    },
+    {
+      "id": 9,
+      "name": "Kiran",
+      "email": "Kiran@gmail.com",
+      "address": "Virar"
+    },
+    {
+      "id": 10,
+      "name": "Amit",
+      "email": "Amit@gmail.com",
+      "address": "Virar"
+    },
+    {
+      "id": 11,
+      "name": "Akshata",
+      "email": "Akshata@gmail.com",
+      "address": "Virar"
+    },
+    {
+      "id": 12,
+      "name": "Shivkumar",
+      "email": "Shivkumar@gmail.com",
+      "address": "Mira Road"
+    },
+    {
+      "name": "sandeep",
+      "email": "123@gmail.com",
+      "address": "virar",
+      "id": 13
+    },
+    {
+      "name": "sudeep",
+      "email": "sudeep@gmail.com",
+      "address": "virar",
+      "id": 14
+    },
+    {
+      "name": "sandeep",
+      "email": "sandeep.samanta83@gmail.com",
+      "address": "virar",
+      "id": 15
+    }
+  ]
+}
